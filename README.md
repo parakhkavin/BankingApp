@@ -15,7 +15,8 @@ Welcome to the Banking Application! This Java-based application provides a simul
 6. [Known Issues](#known-issues)
 7. [Future Enhancements](#future-enhancements)
 8. [Technical Notes](#technical-notes)
-9. [Contact](#contact)
+9. [License](#license)
+10. [Author](#author)
 
 ---
 
@@ -117,7 +118,8 @@ Choose the time simulation option to:
 ---
 
 ## License
-This project is licensed under the GNU 3.0 License. See the `LICENSE` file for details.
+- This project is licensed under the GNU 3.0 License. See the `LICENSE` file for details.
+
 ---
 
 ## Author
